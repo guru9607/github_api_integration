@@ -1,4 +1,4 @@
-# GitHub API Integration
+# GitHub Repository Access Manager
 
 This script facilitates the retrieval of users who have access to a specific repository on GitHub. As a DevOps Engineer managing multiple repositories, it's essential to have an efficient method for regularly checking access permissions. If suppose someone is resigning the organisation, we also have to revoke the access. Therefore automating the process of checking access permissions using a shell script integrated with GitHub's API makes our work a lot easier.
 
