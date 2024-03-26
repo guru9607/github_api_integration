@@ -6,6 +6,7 @@ This script facilitates the retrieval of users who have access to a specific rep
 
 There are two primary methods to interact with applications programmatically:
 
+
 1. **API (Application Programming Interface)**: Allows communication with the application using predefined endpoints.
 2. **CLI (Command Line Interface)**: Utilizes commands directly in the terminal to interact with the application.
 

@@ -3,7 +3,7 @@ import sys
 
 # GitHub Collaborator Access Checker
 # Author: Guruprasad Gaikwad
-# Date: 5th January
+# Date: 6th January
 # Version : v1
 # Description: Checks for users with read access to a specified GitHub repository
 #
